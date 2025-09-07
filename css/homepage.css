@@ -1,6 +1,6 @@
 header {
     height: calc(100vh - 51px);
-    background-image: linear-gradient(rgba(6, 0, 24, 0.7), rgba(6, 0, 24, 1)), url(/img/mtnvlg.jpg);
+    background-image: linear-gradient(rgba(6, 0, 24, 0.5), rgba(6, 0, 24, 1)), url(/img/bg2.jpeg);
     background-position: center;
     background-size: cover;
     display: flex;
